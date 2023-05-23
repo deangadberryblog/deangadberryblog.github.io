@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-22T20:49:50-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dean Gadberry’s Blog</title><subtitle>Dean writes about computer science, technical writing, leadership, and what it&apos;s like to work in a regular office.</subtitle><author><name>Dean Gadberry</name></author><entry><title type="html">Git Resources</title><link href="http://localhost:4000/computer/science/2023/05/20/git-resources.html" rel="alternate" type="text/html" title="Git Resources" /><published>2023-05-20T00:00:00-05:00</published><updated>2023-05-20T00:00:00-05:00</updated><id>http://localhost:4000/computer/science/2023/05/20/git-resources</id><content type="html" xml:base="http://localhost:4000/computer/science/2023/05/20/git-resources.html">&lt;p&gt;Karson, thank you for reaching out and asking about GitHub. I am excited to share these compiled resources with you and anyone else who is interested in learning about these great tools.&lt;/p&gt;
+
+&lt;h3 id=&quot;do-this-and-youll-git-it&quot;&gt;Do this and you’ll Git it.&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Write down a short-term goal.
+    &lt;ul&gt;
+      &lt;li&gt;What do you want to be able to complete now?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Write down a long-term goal. 
+ -What do you want to be able to do in a month or year?&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;https://youtu.be/hwP7WQkmECE&quot;&gt;Git Explained in 100 Seconds&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Create a list of words that you look up in &lt;a href=&quot;https://docs.github.com/en/get-started/quickstart/github-glossary&quot;&gt;The GitHub Glossary&lt;/a&gt; while you read the following.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://docs.github.com/en/get-started/using-git/about-git&quot;&gt;About Git&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dev.to/milu_franz/git-explained-the-basics-igc&quot;&gt;Git Explained: The Basics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/the-essentials-of-git-explained-in-five-minutes-d554019eded9/&quot;&gt;The essentials of Git explained in five minutes&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Try it out with the &lt;a href=&quot;https://docs.github.com/en/get-started/quickstart/hello-world&quot;&gt;GitHub Docs “Hello World” Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;https://youtu.be/hwP7WQkmECE&quot;&gt;Git Explained in 100 Seconds&lt;/a&gt; again.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;other-resources&quot;&gt;Other Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/HkdAHXoRtos&quot;&gt;Git it? How to use Git and GitHub&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;YouTube Video.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.github.com&quot;&gt;GitHub Docs&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;GitHub documents all of their services with helpful internal links.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/git&quot;&gt;Atlassian Docs&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Very In-Depth and easy to navigate. I hadn’t known of this resource until today.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.archlinux.org/title/Git&quot;&gt;Arch Wiki - Git&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This website is the industry standard for quality documentation. If you can navigate this site and understand how it fits into the context of your project, it will help you beyond Git and GitHub, and will serve you for the rest of your computer science career.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Dean Gadberry</name></author><category term="computer" /><category term="science" /><summary type="html"></summary></entry></feed>
