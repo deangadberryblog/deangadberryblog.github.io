@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dean writes about computer science, technical writing, leadership,
   and what it's like to work in a regular office.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.deangadberry.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://deangadberryblog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: deangadberry
 github_username:  DeanGadberry
 # dribbble_username:
