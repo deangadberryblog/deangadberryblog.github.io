@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-27T13:29:10-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dean Gadberry’s Blog</title><subtitle>Dean writes about computer science, technical writing, leadership, and what it&apos;s like to work in a regular office.</subtitle><author><name>Dean Gadberry</name></author><entry><title type="html">New Job. New Mouse. New Keyboard?</title><link href="http://localhost:4000/work/2023/05/27/new-job-and-keyboards.html" rel="alternate" type="text/html" title="New Job. New Mouse. New Keyboard?" /><published>2023-05-27T00:00:00-05:00</published><updated>2023-05-27T00:00:00-05:00</updated><id>http://localhost:4000/work/2023/05/27/new-job-and-keyboards</id><content type="html" xml:base="http://localhost:4000/work/2023/05/27/new-job-and-keyboards.html">&lt;p&gt;On the 15th, I began working with a new company. Even though I am a temp worker, they are treating me like family.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-23T15:37:29-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dean Gadberry’s Blog</title><subtitle>Dean writes about computer science, technical writing, leadership, and what it&apos;s like to work in a regular office.</subtitle><author><name>Dean Gadberry</name></author><entry><title type="html">Cognition in America</title><link href="http://localhost:4000/psychology/2024/06/23/cognition-in-america.html" rel="alternate" type="text/html" title="Cognition in America" /><published>2024-06-23T00:00:00-05:00</published><updated>2024-06-23T00:00:00-05:00</updated><id>http://localhost:4000/psychology/2024/06/23/cognition-in-america</id><content type="html" xml:base="http://localhost:4000/psychology/2024/06/23/cognition-in-america.html">&lt;p&gt;Currently, I am enrolled in a course about education. I am tasked to learn about cognition. As someone who does not shy away from a hyperlink, I have compiled a robust presentation according to this &lt;a href=&quot;https://github.com/DeanGadberry/edu/blob/main/educ1300-Learning-Frameworks/presentation/Cognition%2C%20Learning%20or%20Motivation%20Presentation%202020%20-%202021-1.pdf?raw=true&quot;&gt;prompt from the course.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cognition&quot;&gt;Cognition&lt;/h2&gt;
+
+&lt;p&gt;Cognition encompasses “the processes associated with perception, knowledge, problem solving, judgment, language, and memory” (Spielman, 2020, pg. 226). As it’s namesake may allude, cognition represents the field of cognitive psychology, which focuses study on the processes described.&lt;/p&gt;
+
+&lt;p&gt;Cognition is something I have always been keenly aware of in my own life. As I have never had trouble with learning, and often lacked motivation, but my mind races faster than an F1 car. That is, I have a high need for cognition, and thus am often thinking more than my peers.&lt;/p&gt;
+
+&lt;p&gt;Cognition plays a major role in the learning process. As classic information processing theory shows us, a learner must &lt;strong&gt;encode&lt;/strong&gt;, &lt;strong&gt;retain&lt;/strong&gt;, and &lt;strong&gt;retrieve&lt;/strong&gt; information (Rosnov, 2015, pg. 714). The learning process can not even begin without encoding, a function primarily driven by cognition.&lt;/p&gt;
+
+&lt;p&gt;In researching cognition, it became clear to me that a major indicator of cognitive function is the intelligent quotient score (IQ) of a given individual. “Intelligence is the &lt;em&gt;ability&lt;/em&gt; [emphasis added] to learn” (Plomin at al., 2018). There is not much data on “cognition”, but there is much on the factor of IQ and the subsequent test scores influenced by this factor.&lt;/p&gt;
+
+&lt;h2 id=&quot;historical-representation&quot;&gt;Historical Representation&lt;/h2&gt;
+
+&lt;p&gt;In an effort to measure the national cognitive ability of our nation, the National Assessment of Educational Progress conducts rigorous analysis of American government-schooled-students. Students consistently achieve test scores similar to their peers of the same race (Figure 1).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.deangadberry.com/assets/national-test-scores.png&quot; alt=&quot;national-test-scores&quot; title=&quot;National Reading Test Scores&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;These scorings reflect the consistent representation of cognition for the duration of the modern era.&lt;/p&gt;
+
+&lt;h2 id=&quot;biological-influences-and-racial-representation&quot;&gt;Biological Influences and Racial Representation&lt;/h2&gt;
+
+&lt;p&gt;Cognition, being directly influenced by intelligence, can be measured through the study of general intelligence. Genome-wide studies (Plomin et al., 2018) and test score based studies (Jensen, 1969) have tracked inheritable, genetic intelligence trends. These studies show the reasons why the data in Figure 1 contrast so highly. The differences in intelligence can not be explained through an analysis of an environment, only. Actually, research shows that heritable intelligence is a major indicator of cognitive outcomes (Rushton et al., 2005). Specifically, these indicative features are obvious in the Black-White differences in mean IQ (Jensen, 1969) and test scoring (Figure 1).&lt;/p&gt;
+
+&lt;h2 id=&quot;psychological-factors-affecting-cognition&quot;&gt;Psychological Factors Affecting Cognition&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Confirmation Bias
+    &lt;ul&gt;
+      &lt;li&gt;This tendency to favor information which confirms preconcieved beliefs leads to skewed perspectives and poor decision-making (Wason, 1960).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Availability Heuristic
+    &lt;ul&gt;
+      &lt;li&gt;The over-or under-estimation of the frequency or probability of abberant events can be swayed by estimating the likelihood of such an event based on the ease of recalling similar examples (Tversky et al., 1973).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mental Set
+    &lt;ul&gt;
+      &lt;li&gt;Rigidity in the problem-solving process comes from this over reliance on familiar strategies, previously used, rather than innovating and trying a new solution (Luchins, 1942).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Functional Fixedness
+    &lt;ul&gt;
+      &lt;li&gt;This cognitive bias is one in which an individual uses tools only in their conventional, and sometimes restrictive, way (Duncker, 1945).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;socio-cultural-effects&quot;&gt;Socio-cultural Effects&lt;/h2&gt;
+&lt;p&gt;The influence of cultural pressure to meet family standards and group expectations, while operating as a psychological effect, is ultimately perpetuated by socio-cultural authorities. As immigrants “[attempt] to preserve a marginal ethnic identity through a mix of old and new values and [make] efforts to project old values and traditions in a fashion more palatable to the [host citizens],” each culture represents a “new and almost freely ‘innovated’ culture” (Caytas, 2012). This diversity of culture is especially prominent in 21&lt;sup&gt;st&lt;/sup&gt; century America, as the melting-pot perspective has been largely abandoned in institutions of power. Cultural differences are being promoted, especially amongst racial groups, with the goal of reforming American culture.&lt;/p&gt;
+
+&lt;p&gt;Regional distribution of cultures in America is indicated by the variation in government school achievement and thus cognition. The fact that Texas urban zones are generally behind in school scoring, when compared to rural Texas counties is shown in Figure 2. Urban zones generally have a higher population of Black and Hispanic individuals than rural counties (&lt;a href=&quot;https://bestneighborhood.org/race-in-texas/&quot;&gt;https://bestneighborhood.org/race-in-texas/&lt;/a&gt;). Comparing this fact with the data provided by Figure 1 gives us the logical conclusion, qualified by Figure 2. The urban zones will not emphasize the importance of cognition as much as suburban and rural communities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2&lt;/strong&gt;
+&lt;img src=&quot;https://www.deangadberry.com/assets/houston-test-scores.webp&quot; alt=&quot;houston-test-scores&quot; title=&quot;Houston Test Scores&quot; /&gt;
+&lt;sup&gt;&lt;em&gt;Note: This image from &lt;a href=&quot;http://www.houstonchronicle.com/news/education/article/HISD-high-school-test-scores-continue-to-lag-6310360.php&quot;&gt;houstonchronicle.com&lt;/a&gt; compares Texas and national average test scores for the 2014-2014 school year.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;A study of cognition and intelligence in America sheds light on the major differences, genetically and culturally, which influence America’s populace. This is something of a slap in the face to the postmodern American mindset.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The implication for public policy is that the discrimination model (i.e., Black–White differences in socially valued outcomes will be equal barring discrimination) must be tempered by a distributional model (i.e., Black–White outcomes reflect underlying group characteristics).
+(Rushton, 2005)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This seems to me, an often overlooked aspect of conversation today centered on the aim of lifting up all Americans. We ought all to take a moment to reflect on the ramifications of these findings and consider what we can do to be truly loving towards one another in the years to come.&lt;/p&gt;
+
+&lt;p&gt;Our country’s prosperity depends on our understanding of what is true.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Caytas, J. (2012). &lt;em&gt;Conundrum of an Immigrant: Assimilation versus Cultural Preservation&lt;/em&gt;. Journal of Identity and Migration Studies Vol. 6, No. 2, pp. 36-54.&lt;/p&gt;
+
+&lt;p&gt;Duncker, K. (1945). On problem-solving. Psychological Monographs, 58(5), i-113&lt;/p&gt;
+
+&lt;p&gt;Jensen, A. R. (1969). How much can we boost IQ and scholastic achievement? Harvard Educational Review, 39(1), 1–123. &lt;a href=&quot;https://doi.org/10.17763/haer.39.1.l3u15956627424k7&quot;&gt;https://doi.org/10.17763/haer.39.1.l3u15956627424k7&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Luchins, A. S. (1942). Mechanization in problem solving: The effect of Einstellung. Psychological Monographs, 54(6), i-95.&lt;/p&gt;
+
+&lt;p&gt;Plomin, R., &amp;amp; von Stumm, S. (2018). The new genetics of intelligence. Nature reviews. Genetics, 19(3), 148–159. &lt;a href=&quot;https://doi.org/10.1038/nrg.2017.104&quot;&gt;https://doi.org/10.1038/nrg.2017.104&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rosnov, D., &amp;amp; Roberts, M.C. (2015). &lt;em&gt;Encyclopedia of Human Development&lt;/em&gt;. SAGE Publications. &lt;a href=&quot;https://edge.sagepub.com/sites/default/files/9.4_Information_Processing_Theory.pdf&quot;&gt;http://dx.doi.org/10.4135/9781412952484.n349&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rushton, J. P., &amp;amp; Jensen, A. R. (2005). Thirty years of research on race differences in cognitive ability. Psychology, Public Policy, and Law, 11(2), 235–294. &lt;a href=&quot;https://doi.org/10.1037/1076-8971.11.2.235&quot;&gt;https://doi.org/10.1037/1076-8971.11.2.235&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Spielman, R. M. (2020). &lt;em&gt;Psychology 2e.&lt;/em&gt; Rice University. &lt;a href=&quot;https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf&quot;&gt;https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tversky, A., &amp;amp; Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207-232.&lt;/p&gt;
+
+&lt;p&gt;Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140.&lt;/p&gt;</content><author><name>Dean Gadberry</name></author><category term="psychology" /><summary type="html"></summary></entry><entry><title type="html">Realizing the Reality of Inefficiency</title><link href="http://localhost:4000/work/2024/01/09/efficient-mindset.html" rel="alternate" type="text/html" title="Realizing the Reality of Inefficiency" /><published>2024-01-09T00:00:00-06:00</published><updated>2024-01-09T00:00:00-06:00</updated><id>http://localhost:4000/work/2024/01/09/efficient-mindset</id><content type="html" xml:base="http://localhost:4000/work/2024/01/09/efficient-mindset.html">&lt;p&gt;I have come to the recognition that I am employed in the midst of inefficiences.&lt;/p&gt;
+
+&lt;p&gt;When I am tasked with some repetitive function, I quickly notice improvements which can be made. Many small time-saving-measures over 7 months can amount to a week or two of working time saved. This has always been my mindset.&lt;/p&gt;
+
+&lt;p&gt;I can share about what I have already done. I was tasked with the production of 6000 similar data sheets given on-site images. Mostly, this was a data-entry process. It did, however involve some formatting functions and evaluation of documentation regarding the on-site images. The process of compiling all of this data was given to me in May with the expectation of 40 / 6000 per day. At the peak of my efficiency cycle, I was achieving upwards of 70 / 6000 per day.&lt;/p&gt;
+
+&lt;p&gt;The constant formatting was a click-click-click process. Alt-based macros bound to a 16-key mouse solved that inefficiency. I noticed the lack of vim-motions in the process. I was constantly moving between my keyboard and mouse to select required materials. I needed to implement vim-motions and reduce fatigue. This, I implemented with the purchase of a Kinesis Advantage 360 keyboard which I proceeded to program with vim-motions. This same keyboard was then granted those aforementioned macros and more and more macros as time went on. Macros which would format and print a document. Macros which would select many items and hide them when necessary. Really some complex stuff. Some of the longer macros were 30+ keystrokes. I can click one button and sit back for a minute while the keyboard does the work.&lt;/p&gt;
+
+&lt;p&gt;Not only did these micro-saves increase the efficiency of the process, I really got a rush each time one of them was optimized.&lt;/p&gt;
+
+&lt;p&gt;There is, however, a flaw in the motivating force to continue to make more efficient: The need for positive affirmation and reassurance of the efficacy of my efforts. Without this, my morale would sink and crash within a day or two. This especially occurred when I hit a plateau and was no longer able to find maximal responses to my efforts and cutting bloat.&lt;/p&gt;
+
+&lt;p&gt;Finally, I contacted the Project Manager who was distributing the standards and I spoke with him about changes which would make the process faster. I created my own templates to work off of, and I evened out. I was able to exceed expectations because of my insatiable desire to be faster and more efficient. There is more of this efficiency in the works, too. I am currently learning how to use a new software. My concern is that deliverables are required in PDF format, and I think that transferring to a different format would speed things up.&lt;/p&gt;
+
+&lt;p&gt;I have ideas about making team collaboration more effective by moving a few individuals. I have ideas for making the entire office adopt a split keyboard as standard too. But, you know, I am hired with the understanding that there are inefficiencies in the processes which I must execute each day. I will continue to find ways to make things more efficient, but until I have my Six-Sigma Black Belt, I doubt I will be taken seriously&lt;/p&gt;</content><author><name>Dean Gadberry</name></author><category term="work" /><summary type="html">I have come to the recognition that I am employed in the midst of inefficiences.</summary></entry><entry><title type="html">The Kinesis Keyboard Test Drive</title><link href="http://localhost:4000/typing/2023/07/24/kinesis-keyboard-day-1.html" rel="alternate" type="text/html" title="The Kinesis Keyboard Test Drive" /><published>2023-07-24T00:00:00-05:00</published><updated>2023-07-24T00:00:00-05:00</updated><id>http://localhost:4000/typing/2023/07/24/kinesis-keyboard-day-1</id><content type="html" xml:base="http://localhost:4000/typing/2023/07/24/kinesis-keyboard-day-1.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;I did, finally, order the Kinesis Advantage 360. It arrived today, and I am having great difficulty in getting used to it. I don’t know if that’s what I want to say to start this off, because I am ecstatic to have this beautiful machine at hand.&lt;/p&gt;
+
+&lt;p&gt;Using excel every day has been getting monotonous. I use the same keyboard shortcuts, type the same numbers and letters every day, and I am starting to become quite stationary. This lack of movement has been difficult for my left wrist, as it usually is sitting at the home-row of my keyboard during my work hours. I did upgrade to the microsoft ergonomic keyboard shortly after my last post. It has been an interesting experience: having a mostly split keyboard. I have been experiencing wrist pain at work, though. I needed to resolve the issues and my wife and I decided to pull the trigger and drop the big bucks.&lt;/p&gt;
+
+&lt;p&gt;So, I write this now with the Kinesis 360. I decided on the wired version, because I know that batteries don’t last forever. After my purchase, I learned that there are many upset customers who wish that they did not experience frequent issues with bluetooth, and who desire a more user-friendly programming interface. I am very grateful for my purchase.&lt;/p&gt;
+
+&lt;p&gt;I continue to write “’” instead of entering new lines, as the enter key has been moved to my thumb clusters along with space, backspace, delete, and all of the modifier keys that I can think of.&lt;/p&gt;
+
+&lt;p&gt;The legending on the keys is interesting. I notice that the “0” is on my right thumb when I activate the keypad layer. I have yet to employ the function layers, but I have big plans for them. I think it will be nice to have f2 on my right hand, on the function layer with the numpad configuration. This way, when I am using this keyboard for data entry, I can append excel cells.&lt;/p&gt;</content><author><name>Dean Gadberry</name></author><category term="typing" /><summary type="html"></summary></entry><entry><title type="html">New Job. New Mouse. New Keyboard?</title><link href="http://localhost:4000/work/2023/05/27/new-job-and-keyboards.html" rel="alternate" type="text/html" title="New Job. New Mouse. New Keyboard?" /><published>2023-05-27T00:00:00-05:00</published><updated>2023-05-27T00:00:00-05:00</updated><id>http://localhost:4000/work/2023/05/27/new-job-and-keyboards</id><content type="html" xml:base="http://localhost:4000/work/2023/05/27/new-job-and-keyboards.html">&lt;p&gt;On the 15th, I began working with a new company. Even though I am a temp worker, they are treating me like family.&lt;/p&gt;
 
 &lt;p&gt;I consider this work experience to be a blessing from God. In my first two weeks of work, I have already learned so much about life.&lt;/p&gt;
 
@@ -83,4 +204,8 @@
       &lt;li&gt;This website is the industry standard for quality documentation. If you can navigate this site and understand how it fits into the context of your project, it will help you beyond Git and GitHub, and will serve you for the rest of your computer science career.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Dean Gadberry</name></author><category term="computer" /><category term="science" /><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Dean Gadberry</name></author><category term="computer" /><category term="science" /><summary type="html"></summary></entry><entry><title type="html">IDEA: Self Hosted Wish Lists!</title><link href="http://localhost:4000/open-source/2023/03/23/gift-list-checklist.html" rel="alternate" type="text/html" title="IDEA: Self Hosted Wish Lists!" /><published>2023-03-23T00:00:00-05:00</published><updated>2023-03-23T00:00:00-05:00</updated><id>http://localhost:4000/open-source/2023/03/23/gift-list-checklist</id><content type="html" xml:base="http://localhost:4000/open-source/2023/03/23/gift-list-checklist.html">&lt;h1 id=&quot;self-hosted-wish-lists&quot;&gt;Self Hosted Wish Lists?&lt;/h1&gt;
+
+&lt;p&gt;The idea is simple enough, right? A checklist with a web form which allows individuals to mark something as purchased.&lt;/p&gt;
+
+&lt;p&gt;Static Pages? To avoid reliance upon existing systems, this should be all self-hosted. A javascript function which sends&lt;/p&gt;</content><author><name>Dean Gadberry</name></author><category term="open-source" /><summary type="html">Self Hosted Wish Lists?</summary></entry></feed>
